@@ -5,7 +5,9 @@ export default function Home({ formattedDate }) {
       <p>Fecha 04-06-2024.</p>
       <ul>
         <li>Gabriel Caicedo</li>
+        <li>David Cunguan</li>
         <li>Christian Ortiz</li>
+        <li>Amy Sanchez</li>
       </ul>
     </>
   );
